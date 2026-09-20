@@ -349,34 +349,34 @@
     <h2 class="gallery-title">Our Art Gallery</h2>
     <section class="gallery-grid">
       <div class="art-frame">
-        <img src="E:\Arajeet\arajeet\pictur\IMG-20260914-WA0073.jpg" alt="Art Frame Photo" loading="lazy" />
+        <img src="https://raw.githubsercontent.com/arajeetojha/first-design/main/New folder/index.html/New folder/pictur/IMG-20260414-WA0014.jpg" alt="Art Frame Photo" loading="lazy" />
       </div>
       <div class="art-frame">
-        <img src="E:\Arajeet\arajeet\pictur\IMG-20260608-WA0022.jpg" alt="Art Frame Photo" loading="lazy" />
+        <img src="https://raw.githubsercontent.com/arajeetojha/first-design/main/New folder/index.html/New folder/pictur/IMG-20260414-WA0014.jpg" alt="Art Frame Photo" loading="lazy" />
       </div>
       <div class="art-frame">
-        <img src="E:\Arajeet\arajeet\pictur\IMG-20260414-WA0014.jpg" alt="Art Frame Photo" loading="lazy" />
+        <img src="https://raw.githubsercontent.com/arajeetojha/first-design/main/New folder/index.html/New folder/pictur/IMG-20260414-WA0016.jpg" alt="Art Frame Photo" loading="lazy" />
       </div>
       <div class="art-frame">
-        <img src="E:\Arajeet\arajeet\pictur\.trashed-1792243535-IMG-20260901-WA0005.jpg" alt="Art Frame Photo" loading="lazy" />
+        <img src="https://raw.githubsercontent.com/arajeetojha/first-design/main/New folder/index.html/New folder/pictur/IMG-20260608-WA0013.jpg" alt="Art Frame Photo" loading="lazy" />
       </div>
       <div class="art-frame">
-        <img src="E:\Arajeet\arajeet\pictur\.trashed-1792243565-IMG-20260810-WA0008.jpg" alt="Art Frame Photo" loading="lazy" />
+        <img src="https://raw.githubsercontent.com/arajeetojha/first-design/main/New folder/index.html/New folder/pictur/IMG-20260608-WA0022.jpg" alt="Art Frame Photo" loading="lazy" />
       </div>
       <div class="art-frame">
-        <img src="E:\Arajeet\arajeet\pictur\IMG-20260608-WA0013.jpg" alt="Art Frame Photo" loading="lazy" />
+        <img src="https://raw.githubsercontent.com/arajeetojha/first-design/main/New folder/index.html/New folder/pictur/IMG-20260706-WA0012.jpg" loading="lazy" />
       </div>
       <div class="art-frame">
-        <img src="E:\Arajeet\arajeet\pictur\IMG-20260414-WA0016.jpg" alt="Art Frame Photo" loading="lazy" />
+        <img src="https://raw.githubsercontent.com/arajeetojha/first-design/main/New folder/index.html/New folder/pictur/IMG-20260706-WA0012.jpg" loading="lazy" />
       </div>
       <div class="art-frame">
-        <img src="E:\Arajeet\arajeet\pictur\IMG-20260706-WA0012.jpg" alt="Art Frame Photo" loading="lazy" />
+        <img src="https://raw.githubsercontent.com/arajeetojha/first-design/main/New folder/index.html/New folder/pictur/IMG-20260914-WA0030.jpg" loading="lazy" />
       </div>
       <div class="art-frame">
-        <img src="E:\Arajeet\arajeet\pictur\IMG-20260914-WA0053.jpg" alt="Art Frame Photo" loading="lazy" />
+        <img src="https://raw.githubsercontent.com/arajeetojha/first-design/main/New folder/index.html/New folder/pictur/IMG-20260914-WA0053.jpg" alt="Art Frame Photo" loading="lazy" />
       </div>
       <div class="art-frame">
-        <img src="E:\Arajeet\arajeet\pictur\IMG-20260914-WA0030.jpg" alt="Art Frame Photo" loading="lazy" />
+        <img src="https://raw.githubsercontent.com/arajeetojha/first-design/main/New folder/index.html/New folder/pictur/IMG-20260914-WA0073.jpg" alt="Art Frame Photo" loading="lazy" />
       </div>
     </section>
 
